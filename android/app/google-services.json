@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "407805084862",
+    "project_id": "task-mangement-26913",
+    "storage_bucket": "task-mangement-26913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407805084862:android:fbd42240450196f4590aef",
+        "android_client_info": {
+          "package_name": "com.example.task_mangement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI4J2dN3xJSmZA4ueHfBjwiMH0kSLfoWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
